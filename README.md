@@ -15,4 +15,3 @@ Create a trend line to show the selected category values.
 The line to show with a arrow/triangle at the last mark
 Dashboard filter for income group to be applied for all charts with the filter action enabled in the map as well
 Formatting to be done appropriately
-
